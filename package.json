@@ -1,6 +1,7 @@
 {
   "name": "micorralito",
   "version": "0.0.0",
+  "author": "Mauricio Bravo",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
